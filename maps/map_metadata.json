@@ -1,0 +1,112 @@
+[
+  {
+    "file": "map_20x20.csv",
+    "rows": 20,
+    "columns": 20,
+    "free_value": 0,
+    "obstacle_value": 1,
+    "index_base": 1,
+    "start_row_column": [
+      1,
+      1
+    ],
+    "goal_row_column": [
+      20,
+      20
+    ],
+    "paper_figures": [
+      5
+    ],
+    "array_order": "optimization grid, in stored row/column order",
+    "plot_coordinates": "cell center x = column - 0.5; y = row - 0.5",
+    "display_note": "For a top-to-bottom image array with origin at the top, reverse the row order."
+  },
+  {
+    "file": "map_30x30.csv",
+    "rows": 30,
+    "columns": 30,
+    "free_value": 0,
+    "obstacle_value": 1,
+    "index_base": 1,
+    "start_row_column": [
+      1,
+      1
+    ],
+    "goal_row_column": [
+      30,
+      30
+    ],
+    "paper_figures": [
+      5
+    ],
+    "array_order": "optimization grid, in stored row/column order",
+    "plot_coordinates": "cell center x = column - 0.5; y = row - 0.5",
+    "display_note": "For a top-to-bottom image array with origin at the top, reverse the row order."
+  },
+  {
+    "file": "map_40x40.csv",
+    "rows": 40,
+    "columns": 40,
+    "free_value": 0,
+    "obstacle_value": 1,
+    "index_base": 1,
+    "start_row_column": [
+      1,
+      1
+    ],
+    "goal_row_column": [
+      40,
+      40
+    ],
+    "paper_figures": [
+      5
+    ],
+    "array_order": "optimization grid, in stored row/column order",
+    "plot_coordinates": "cell center x = column - 0.5; y = row - 0.5",
+    "display_note": "For a top-to-bottom image array with origin at the top, reverse the row order."
+  },
+  {
+    "file": "map_50x50.csv",
+    "rows": 50,
+    "columns": 50,
+    "free_value": 0,
+    "obstacle_value": 1,
+    "index_base": 1,
+    "start_row_column": [
+      1,
+      1
+    ],
+    "goal_row_column": [
+      50,
+      50
+    ],
+    "paper_figures": [
+      6
+    ],
+    "array_order": "optimization grid, in stored row/column order",
+    "plot_coordinates": "cell center x = column - 0.5; y = row - 0.5",
+    "display_note": "For a top-to-bottom image array with origin at the top, reverse the row order."
+  },
+  {
+    "file": "map_60x60.csv",
+    "rows": 60,
+    "columns": 60,
+    "free_value": 0,
+    "obstacle_value": 1,
+    "index_base": 1,
+    "start_row_column": [
+      1,
+      1
+    ],
+    "goal_row_column": [
+      60,
+      60
+    ],
+    "paper_figures": [
+      6
+    ],
+    "array_order": "optimization grid, in stored row/column order",
+    "plot_coordinates": "cell center x = column - 0.5; y = row - 0.5",
+    "display_note": "For a top-to-bottom image array with origin at the top, reverse the row order."
+  }
+]

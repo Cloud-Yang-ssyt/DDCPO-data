@@ -1,0 +1,7 @@
+reference_algorithm,comparison_algorithm,reported_wins,reported_losses,reported_ties
+DDCPO,CPO,15,0,0
+DDCPO,AO,15,0,0
+DDCPO,DBO,15,0,0
+DDCPO,PSO,15,0,0
+DDCPO,WOA,15,0,0
+DDCPO,SSA,15,0,0
